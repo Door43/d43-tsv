@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tsv:home|Door43 (tsv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tsv|d43-tsv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tsv/archive/master.zip|d43-tsv.zip]]
+
+**Recent Changes**
+{{changes>ns = tsv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tsv|Ethnologue data]]
+
